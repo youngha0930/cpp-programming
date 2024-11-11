@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/youngha/dev_projects/cpp-programming/CHAPTER02/2-4/main'
+relocations:     []
+...
